@@ -13,6 +13,8 @@
 6. Now repeat the step 4 and 5 but this time select all the files from the extracted lib folder > apply and close
 
 7. Now as a result of installation **Referenced Libraries** will be displayed in the project stack with various files in it.
+   ![image](https://github.com/deva-246/Automation-Testing-using-selenium-webdriver-on-Linkedinloginsystem/assets/75877347/0f4bc963-5820-45b2-a390-b7acabd26386)
+
 
 
 ## Googlechrome driver installation
