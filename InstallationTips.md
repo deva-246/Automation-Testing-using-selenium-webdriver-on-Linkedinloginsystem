@@ -25,7 +25,7 @@
 
 2. Now visit https://chromedriver.chromium.org/downloads and search for the desired web driver
 
-3. Incase If you are using Chrome version 115 or newer, please consult the Chrome for Testing availability dashboard. This page provides convenient JSON endpoints for specific ChromeDriver version downloading > https://googlechromelabs.github.io/chrome-for-testing/ > download the stable version by,
+3. **Incase If you are using Chrome version 115 or newer, please consult the Chrome for Testing availability dashboard. This page provides convenient JSON endpoints for specific ChromeDriver version downloading > https://googlechromelabs.github.io/chrome-for-testing/ > download the stable version by,**
 
    3.1 Copy pasting the url on another tab > automatic download begins
 
