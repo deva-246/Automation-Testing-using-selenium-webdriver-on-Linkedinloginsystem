@@ -1,4 +1,4 @@
-# Automation-Testing-using-selenium-webdriver-on-Linkedinloginsystem
+# Automation-Testing-on-Linkedin-loginsystem
 
 Automation testing using Selenium is a popular choice for web application testing due to its flexibility and support for multiple programming languages. Selenium provides a framework for automating browser actions, allowing testers to write scripts to simulate user interactions with a web application. 
 
