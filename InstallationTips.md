@@ -27,4 +27,10 @@
 
    3.1 Copy pasting the url on another tab > automatic download begins
 
-4. 
+4. Now store the extracted files in a desire folder
+
+5. In the script to enable the chromedriver use the code ,
+
+         System.setProperty("webdriver.chrome.driver", "path of chromedriver.exe file in your system");
+
+6. Once you run the script > chrome gets automatically called and performs the required testing functions. 
